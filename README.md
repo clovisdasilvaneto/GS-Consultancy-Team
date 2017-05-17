@@ -2,6 +2,6 @@
 
 ## Themes Boilerplates
 
-    ### Angular JS
+### Angular JS
 
- [Angular Js theme](https://github.com/clovisdasilvaneto/Liferay-AngularJs-Theme)
+ - [Angular Js theme](https://github.com/clovisdasilvaneto/Liferay-AngularJs-Theme)
