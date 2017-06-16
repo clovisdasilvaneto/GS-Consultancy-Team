@@ -4,4 +4,5 @@
 
 ### Angular JS
 
- - [Angular Js theme](https://github.com/clovisdasilvaneto/Liferay-AngularJs-Theme)
+ - [AngularJS theme](https://github.com/clovisdasilvaneto/Liferay-AngularJs-Theme)
+ - [AngularJS multiple portlets](https://github.com/rafoli/liferay-gs/tree/master/modules/liferay-bundle-angular-example-multiple-views-web)
